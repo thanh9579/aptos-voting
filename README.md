@@ -24,7 +24,7 @@ To set up the project, follow these steps:
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-repo/aptos-voting.git
+git clone https://github.com/thanh9579/aptos-voting.git
 cd aptos-voting
 
 # Install dependencies
