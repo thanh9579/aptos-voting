@@ -1,0 +1,13 @@
+[package]
+name = "learningmove"
+version = "0.0.0"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework", rev = "mainnet" }
+
+[addresses]
+my_addrx = "_"
+std = "0x1"
+
+[dev-addresses]
+my_addrx = "0xC0FF3"
